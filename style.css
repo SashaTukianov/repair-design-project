@@ -1,0 +1,321 @@
+/* Rectangle 5.9 */
+
+.navigation{
+z-index: 100;
+position: fixed;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 88%;
+background: #131313;
+}
+
+.navigation li{
+    display: inline-block;
+  }
+
+.repair-design-project{
+position: absolute;
+left: 5.7%;
+right: 81.8%;
+top: 8px;
+bottom: 99.54%;
+font-family: FuturaDemiC;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+color: #E3B873;
+}
+
+/* Group */
+
+.group{
+word-spacing: 3px;
+position: absolute;
+left: 24.84%;
+right: 34.73%;
+top: 8px;
+bottom: 99.54%;
+}
+
+/* HOME */
+
+.home a{
+    text-decoration: none;
+left: 24.84%;
+right: 72.38%;
+top: 0.36%;
+bottom: 99.54%;
+
+font-family: FuturaBookC;
+font-size: 14px;
+line-height: 16px;
+
+color: #E3B873;
+}
+
+/* PROJECTS */
+
+.projects a{
+    text-decoration: none;
+left: 30.9%;
+right: 65.07%;
+top: 0.36%;
+bottom: 99.54%;
+
+font-family: FuturaBookC;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+/* ЗАМЕР */
+
+.measurments a{
+    text-decoration: none;
+left: 38.2%;
+right: 55.26%;
+top: 0.36%;
+bottom: 99.54%;
+
+font-family: FuturaBookC;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+/* TEAM */
+
+.team a{
+    text-decoration: none;
+left: 48.02%;
+right: 49.62%;
+top: 0.36%;
+bottom: 99.54%;
+
+font-family: FuturaBookC;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+/* REVIEWS */
+
+.reviews a{
+    text-decoration: none;
+left: 53.65%;
+right: 42.66%;
+top: 0.36%;
+bottom: 99.54%;
+
+font-family: FuturaBookC;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+/* CONTACTS */
+
+.contacts a{
+    text-decoration: none;
+left: 60.61%;
+right: 34.73%;
+top: 0.36%;
+bottom: 99.54%;
+
+font-family: FuturaBookC;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+/* +7 (928) 768-32-39 */
+
+.number a{
+text-decoration: none;
+position: relative;
+left: 69.96%;
+right: 21.28%;
+top: 8px;
+bottom: 99.64%;
+font-family: FuturaDemiC;
+font-size: 14px;
+line-height: 16px;
+text-align: right;
+text-decoration-line: underline;
+color: #E3B873;
+}
+
+/* Request a call */
+
+.reguest-a-call{
+    position: relative;
+    left: 84.14%;
+    right: 9.25%;
+    top: -32px;
+    bottom: 70%;
+        font-family: FuturaDemiC;
+        font-size: 13px;
+        line-height: 15px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        height:40px;
+        width:150px;
+        background: #E3B873;
+        box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+        border-radius: 2px;
+      } 
+      .reguest-a-call a{
+        text-decoration: none;
+        color: #FFFFFF;
+        }
+
+      /* Rectangle 5.10 */
+
+.rectangle5{
+    position: relative;
+    left: -10px;
+    right: 0%;
+    top: 65px;
+    bottom: 100%;
+    width: 110%;
+    height:100%;
+    background: #131313;
+}
+
+.rectangle5 img{
+    position: relative;
+    left: 60px;
+    right:0px;
+    top: 0px;
+    bottom: 600px;
+    height:100%;
+    background: #131313;
+    opacity: 0.5;
+}
+
+
+.instagram{
+position: absolute;
+left: -150px;
+top: 100px;
+width: 200px;
+height: 174px;
+font-family: FuturaDemiC;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: #E3B873;
+transform: rotate(90deg);
+}
+
+.rectangle5 h1{
+position: absolute;
+left: 100px;
+right: 60%;
+top: 20%;
+bottom: 80%;
+font-family: Yeseva One;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 53px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.text{
+position: absolute;
+left: 100px;
+right: 10%;
+top: 40%;
+bottom: 95.16%;
+font-family: FuturaBookC;
+font-size: 22px;
+line-height: 30px;
+color: #FFFFFF;
+}
+
+/* CALCULATE THE COST */
+
+.calculate{
+position: relative;
+left: 7%;
+right: 75.66%;
+top: -280px;
+bottom: 94.26%;
+
+font-family: FuturaDemiC;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+color: #FFFFFF;
+height:40px;
+width:200px;
+background: #E3B873;
+box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
+border-radius: 2px;
+}
+.calculate a{
+text-decoration: none;
+color: #FFFFFF;
+}
+
+.submit{
+    position: relative;
+    left: 10%;
+    top: -280px;
+    bottom: 94.26%;
+    font-family: FuturaDemiC;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    height:40px;
+    width:200px;
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+}
+
+.submit a{
+    text-decoration: none;
+    color: #FFFFFF;
+    }
+
+.scroll{
+position:relative;
+top:-60px;
+left: -405px;
+font-family: Yeseva One;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+text-transform: uppercase;
+color: #FFFFFF;
+
+background: #131313;
+text-align: center;
+height:100px;
+width:200px;
+border:none;
+}
+
+.scroll a{
+    text-decoration: none;
+    color: #FFFFFF;
+    }
+
+    .circle{
+        border-radius: 100%;
+        border: 1px solid #FFFFFF;
+        width:40px;
+        height:20px;
+    }
