@@ -11,8 +11,8 @@ background: #131313;
 }
 
 .navigation li{
-    display: inline-block;
-  }
+display: inline-block;
+}
 
 .repair-design-project{
 position: absolute;
@@ -41,87 +41,77 @@ bottom: 99.54%;
 /* HOME */
 
 .home a{
-    text-decoration: none;
+text-decoration: none;
 left: 24.84%;
 right: 72.38%;
 top: 0.36%;
 bottom: 99.54%;
-
 font-family: FuturaBookC;
 font-size: 14px;
 line-height: 16px;
-
 color: #E3B873;
 }
 
 /* PROJECTS */
 
 .projects a{
-    text-decoration: none;
+text-decoration: none;
 left: 30.9%;
 right: 65.07%;
 top: 0.36%;
 bottom: 99.54%;
-
 font-family: FuturaBookC;
 font-size: 14px;
 line-height: 16px;
-
 color: #FFFFFF;
 }
 
 /* ЗАМЕР */
 
 .measurments a{
-    text-decoration: none;
+text-decoration: none;
 left: 38.2%;
 right: 55.26%;
 top: 0.36%;
 bottom: 99.54%;
-
 font-family: FuturaBookC;
 font-size: 14px;
 line-height: 16px;
-
 color: #FFFFFF;
 }
 
 /* TEAM */
 
 .team a{
-    text-decoration: none;
+text-decoration: none;
 left: 48.02%;
 right: 49.62%;
 top: 0.36%;
 bottom: 99.54%;
-
 font-family: FuturaBookC;
 font-size: 14px;
 line-height: 16px;
-
 color: #FFFFFF;
 }
 
 /* REVIEWS */
 
 .reviews a{
-    text-decoration: none;
+text-decoration: none;
 left: 53.65%;
 right: 42.66%;
 top: 0.36%;
 bottom: 99.54%;
-
 font-family: FuturaBookC;
 font-size: 14px;
 line-height: 16px;
-
 color: #FFFFFF;
 }
 
 /* CONTACTS */
 
 .contacts a{
-    text-decoration: none;
+text-decoration: none;
 left: 60.61%;
 right: 34.73%;
 top: 0.36%;
@@ -154,50 +144,51 @@ color: #E3B873;
 /* Request a call */
 
 .reguest-a-call{
-    position: relative;
-    left: 84.14%;
-    right: 9.25%;
-    top: -32px;
-    bottom: 70%;
-        font-family: FuturaDemiC;
-        font-size: 13px;
-        line-height: 15px;
-        text-align: center;
-        text-transform: uppercase;
-        color: #FFFFFF;
-        height:40px;
-        width:150px;
-        background: #E3B873;
-        box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
-        border-radius: 2px;
-      } 
-      .reguest-a-call a{
-        text-decoration: none;
-        color: #FFFFFF;
-        }
+position: relative;
+left: 84.14%;
+right: 9.25%;
+top: -32px;
+bottom: 70%;
+font-family: FuturaDemiC;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+height:40px;
+width:150px;
+background: #E3B873;
+box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+border-radius: 2px;
+} 
 
-      /* Rectangle 5.10 */
+.reguest-a-call a{
+text-decoration: none;
+color: #FFFFFF;
+}
+
+/* Rectangle 5.10 */
 
 .rectangle5{
-    position: relative;
-    left: -10px;
-    right: 0%;
-    top: 65px;
-    bottom: 100%;
-    width: 110%;
-    height:100%;
-    background: #131313;
+position: relative;
+left: -10px;
+right: 0%;
+top: 65px;
+bottom: 100%;
+width: 110%;
+height:100%;
+background: #131313;
 }
 
 .rectangle5 img{
-    position: relative;
-    left: 60px;
-    right:0px;
-    top: 0px;
-    bottom: 600px;
-    height:100%;
-    background: #131313;
-    opacity: 0.5;
+position: relative;
+left: 60px;
+right:0px;
+top: 0px;
+bottom: 600px;
+height:100%;
+background: #131313;
+opacity: 0.5;
 }
 
 
@@ -250,7 +241,6 @@ left: 7%;
 right: 75.66%;
 top: -280px;
 bottom: 94.26%;
-
 font-family: FuturaDemiC;
 font-size: 13px;
 line-height: 15px;
@@ -262,32 +252,33 @@ background: #E3B873;
 box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
 border-radius: 2px;
 }
+
 .calculate a{
 text-decoration: none;
 color: #FFFFFF;
 }
 
 .submit{
-    position: relative;
-    left: 10%;
-    top: -280px;
-    bottom: 94.26%;
-    font-family: FuturaDemiC;
-    font-size: 13px;
-    line-height: 15px;
-    text-align: center;
-    color: #FFFFFF;
-    height:40px;
-    width:200px;
-    background-color: transparent;
-    border: 1px solid #FFFFFF;
-    border-radius: 2px;
+position: relative;
+left: 10%;
+top: -280px;
+bottom: 94.26%;
+font-family: FuturaDemiC;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+color: #FFFFFF;
+height:40px;
+width:200px;
+background-color: transparent;
+border: 1px solid #FFFFFF;
+border-radius: 2px;
 }
 
 .submit a{
-    text-decoration: none;
-    color: #FFFFFF;
-    }
+text-decoration: none;
+color: #FFFFFF;
+}
 
 .scroll{
 position:relative;
@@ -309,13 +300,13 @@ border:none;
 }
 
 .scroll a{
-    text-decoration: none;
-    color: #FFFFFF;
-    }
+text-decoration: none;
+color: #FFFFFF;
+}
 
-    .circle{
-        border-radius: 100%;
-        border: 1px solid #FFFFFF;
-        width:40px;
-        height:20px;
-    }
+.circle{
+border-radius: 100%;
+border: 1px solid #FFFFFF;
+width:40px;
+height:20px;
+}
